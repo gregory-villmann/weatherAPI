@@ -11,10 +11,11 @@ body{
 .weather{
     margin-top: 35vh;
     border: 1px solid #e1e1e1;
-    border-radius: 5px;
+    border-radius: 3px;
     background: #e1e1e1;
     padding: 5vh;
     text-align: center;
+    box-shadow: 5px 10px #bfbfbf;
 }
 .description{
     padding-top: 1rem;
